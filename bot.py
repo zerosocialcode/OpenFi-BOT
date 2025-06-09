@@ -1060,7 +1060,7 @@ class OpenFi:
                 f"{Fore.BLUE+Style.BRIGHT}{ticker}{Style.RESET_ALL}                            "
             )
 
-            await self.process_perform_borrow(account, address, asset_address, self.withdraw_amount, ticker, use_proxy)
+            await self.process_perform_withdraw(account, address, asset_address, self.withdraw_amount, ticker, use_proxy)
             await self.print_timer()
 
     async def process_accounts(self, account: str, address: str, option: int, use_proxy: bool):
