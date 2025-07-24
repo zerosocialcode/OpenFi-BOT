@@ -14,6 +14,7 @@ OpenFi BOT
   - Auto Deposit
   - Auto Supply
   - Auto Borrow
+  - Auto Repay
   - Auto Withdraw
   - Multi Accounts
 
