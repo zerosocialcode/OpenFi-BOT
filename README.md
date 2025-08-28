@@ -2,20 +2,19 @@
 OpenFi BOT
 
 - Register Here : [OpenFi](https://app.open-fi.xyz/)
-- Connect Same Wallet
+- Connect Same Wallet With Pharos
 
 ## Features
 
   - Auto Get Account Information
-  - Auto Run With [Proxyscrape Free Proxy](https://proxyscrape.com/free-proxy-list) - `Choose 1`
-  - Auto Run With Private Proxy - `Choose 2`
-  - Auto Run Without Proxy - `Choose 3`
-  - Auto Mint Faucet
-  - Auto Deposit
-  - Auto Supply
-  - Auto Borrow
-  - Auto Repay
-  - Auto Withdraw
+  - Auto Run With Private Proxy - `Choose 1`
+  - Auto Run Without Proxy - `Choose 2`
+  - Auto Mint Faucets
+  - Auto Deposit PHRS
+  - Auto Supply Assets
+  - Auto Borrow Assets
+  - Auto Repay Assets
+  - Auto Withdraw Assets
   - Multi Accounts
 
 ## Requiremnets
