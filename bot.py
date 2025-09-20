@@ -12,7 +12,7 @@ wib = pytz.timezone('Asia/Jakarta')
 class OpenFi:
     def __init__(self) -> None:
         # self.RPC_URL = "https://testnet.dplabs-internal.com/"
-        self.RPC_URL = "https://api.zan.top/node/v1/pharos/testnet/1c23cdaa41f34fd2a74fc375d2400c47"
+        self.RPC_URL = "https://api.zan.top/node/v1/pharos/testnet/238d87abf88745eabb849aacaa82ce4f"
         self.PHRS_CONTRACT_ADDRESS = "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE"
         self.WPHRS_CONTRACT_ADDRESS = "0x3019B247381c850ab53Dc0EE53bCe7A07Ea9155f"
         self.USDC_CONTRACT_ADDRESS = "0x72df0bcd7276f2dFbAc900D1CE63c272C4BCcCED"
